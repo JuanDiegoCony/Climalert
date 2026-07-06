@@ -1,0 +1,20 @@
+{
+  "groups": [
+    {
+      "name": "weather-api",
+      "type": "ar.edu.utn.ba.dsi.climalert.Config.WeatherApiProperties",
+      "sourceType": "ar.edu.utn.ba.dsi.climalert.Config.WeatherApiProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "weather-api.base-url",
+      "type": "java.lang.String",
+      "sourceType": "ar.edu.utn.ba.dsi.climalert.Config.WeatherApiProperties"
+    }
+  ],
+  "hints": [],
+  "ignored": {
+    "properties": []
+  }
+}
